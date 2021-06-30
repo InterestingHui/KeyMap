@@ -7,3 +7,4 @@
 - 折叠当前行所在的函数：ctrl + K + L
 - 类似pycharm中ctrl + shift + alt + j：ctrl + shift + L（有时可能会失效）
 - 支持ctrl + shift + z，但是前提是得关闭搜狗输入法
+- 不论光标在哪，让当前行签名多一个tab：ctrl+]

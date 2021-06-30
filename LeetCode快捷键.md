@@ -1,3 +1,9 @@
 - 提交代码：ctrl+Enter
 - 从当前行生成一行空行，并将该行移到下一行：shift+ctrl+Enter
-- 多选中当前光标所在单词的下一个单词（多光标）：ctrl+D
+- 多选中当前光标所在单词的下一个单词（多光标）：ctrl+D (如果只按一次的话就跟pycharm中的ctrl+w类似）
+- 注释行：同pycharm
+- 执行测试代码：ctrl+'
+- 依次从当前行开始选中行，每按依次往下多选一行：ctrl + l   (与之对应的 ctrl + U就是撤销上一次的ctrl + l，也就是回到上一行）
+- 折叠当前行所在的函数：ctrl + K + L
+- 类似pycharm中ctrl + shift + alt + j：ctrl + shift + L（有时可能会失效）
+- 支持ctrl + shift + z，但是前提是得关闭搜狗输入法

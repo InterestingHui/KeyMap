@@ -1,1 +1,3 @@
 - ctrl + D：删除当前行
+- ctrl + alt = click：多光标，类似于pycharm中的ctrl + alt + shift + click
+- 

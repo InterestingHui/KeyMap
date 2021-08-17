@@ -8,3 +8,6 @@
 - 类似pycharm中ctrl + shift + alt + j：ctrl + shift + L（有时可能会失效）
 - 支持ctrl + shift + z，但是前提是得关闭搜狗输入法
 - 不论光标在哪，让当前行签名多一个tab：ctrl+]
+- alt + 上下键：将当前行移动到上、下一行
+- shift + alt + 上下键：复制当前行到下一行，但光标并不移动
+- 

@@ -1,9 +1,20 @@
 ### 进入keymap
-- 搜索explorer即可设置弹出文件所在文件夹的快捷键（show in explorer）
-    - 目前设置：ctrl + shift + S 
-- 搜索close找到ctrl+F4那个（也就是只有close，后面什么都不跟的）就是设置当前标签页的关闭快捷键
-    - 目前设置：ctrl + alt + W 
-- 设置Move Caret Backward a Paragraph 设置为 ctrl + shift + Q即可移动光标到当前模块的上一行
-- 设置Move Caret Backward a Paragraph with Selection 设置为ctrl + shift + alt + Q即可在移动光标到当前模块的上一行的时候选中当前块
-- 设置给文件重命名快捷键：Refactor - Rename :add Mouse shortcut  
-    - 目前设置：shift + click 
+- 弹出文件所在文件夹
+    - show in explorer：搜索explorer即可
+    - 一般设置：ctrl + shift + S 
+- 当前标签页的关闭
+    - 搜索close找到ctrl+F4那个（也就是只有close，后面什么都不跟的）
+    - 一般设置：ctrl + alt + W 
+- 移动光标到当前模块的上一行
+    - Move Caret Backward a Paragraph 
+    - 一般设置： ctrl + shift + Q即可
+- 在移动光标到当前模块的上一行的同时选中当前块
+    - Move Caret Backward a Paragraph with Selection 
+    - 一般设置：ctrl + shift + alt + Q
+- 给文件重命名快捷键
+    - Refactor - Rename :add Mouse shortcut  
+    - 一般设置：shift + click 
+- 给当前行加断点：
+    - Toggle Line Breakpoint 
+    - 一般设置：ctrl + K
+- 

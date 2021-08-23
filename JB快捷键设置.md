@@ -17,4 +17,6 @@
 - 给当前行加断点：
     - Toggle Line Breakpoint 
     - 一般设置：ctrl + K
-- 
+- 在文件/文件夹中搜索
+    - Find in files
+    - 一般设置：ctrl + 鼠标右键 

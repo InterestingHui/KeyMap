@@ -13,7 +13,7 @@
     - 一般设置：ctrl + shift + alt + Q
 - 给文件重命名快捷键
     - Refactor - Rename :add Mouse shortcut  
-    - 一般设置：shift + click 
+    - 一般设置：shift + alt + click 
 - 给当前行加断点：
     - Toggle Line Breakpoint 
     - 一般设置：ctrl + K

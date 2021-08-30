@@ -3,4 +3,8 @@
 - (ctrl + F) + (Enter) + 多次(ctrl + G)：每次ctrl + G 就是查找下一个查找到的目标
 - ctrl + B：字体加粗
 - ctrl + E：字体灰色底板
+- ctrl + I：
+    - X 1 ：斜体
+    - X 2 ：粗体
+    - X 3 ： 斜体 + 粗体 
 - 

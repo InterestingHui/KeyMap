@@ -1,3 +1,4 @@
 - ctrl + D：删除当前行
 - ctrl + alt = click：多光标，类似于pycharm中的ctrl + alt + shift + click
-- 
+- (ctrl + F) + (Enter) + 多次(ctrl + G)：每次ctrl + G 就是查找下一个查找到的目标
+- ctrl + B：加重

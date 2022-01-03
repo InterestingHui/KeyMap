@@ -1,22 +1,15 @@
 ### 进入keymap
-- 弹出文件所在文件夹
-    - show in explorer：搜索explorer即可
-    - 一般设置：ctrl + shift + S 
-- 当前标签页的关闭
-    - 搜索close找到ctrl+F4那个（也就是只有close，后面什么都不跟的）
-    - 一般设置：ctrl + alt + W 
-- 移动光标到当前模块的上一行
-    - Move Caret Backward a Paragraph 
-    - 一般设置： ctrl + shift + Q即可
-- 在移动光标到当前模块的上一行的同时选中当前块
-    - Move Caret Backward a Paragraph with Selection 
-    - 一般设置：ctrl + shift + alt + Q
-- 给文件重命名快捷键
-    - Refactor - Rename :add Mouse shortcut  
-    - 一般设置：shift + 鼠标右键 
-- 给当前行加断点：
-    - Toggle Line Breakpoint 
-    - 一般设置：ctrl + K
-- 在文件/文件夹中搜索
-    - Find in files
-    - 一般设置：ctrl + 鼠标右键 
+- 弹出文件所在文件夹（show in explorer：搜索explorer即可）：ctrl + shift + S 
+- 当前标签页的关闭（搜索close找到ctrl+F4那个（也就是只有close，后面什么都不跟的））：ctrl + alt + W 
+- 移动光标到当前模块的上一行（Move Caret Backward a Paragraph）： ctrl + shift + Q即可
+- 在移动光标到当前模块的上一行的同时选中当前块（Move Caret Backward a Paragraph with Selection）：ctrl + shift + alt + Q
+- 给文件重命名快捷键（Refactor - Rename :add Mouse shortcut）：shift + 鼠标右键 
+- 在文件/文件夹中搜索（Find in files）：ctrl + 鼠标右键 
+- Debug
+    - 到下一行（step over）:ctrl + 1
+    - 到下一行（有函数进入函数, step into）： ctrl + 2
+    - 跳出函数（step out）：ctrl + 3
+    - 运行到光标这一行（run to cursor）：ctrl + 4
+    - 执行Debug(Debug)：ctrl + E
+    - 给当前行加断点（toggle line breakpoint）：ctrl + Q
+    - 加入到观察列表（Add to watches）：ctrl + 5

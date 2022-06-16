@@ -3,7 +3,7 @@
 - 当前标签页的关闭（搜索close找到ctrl+F4那个（也就是只有close，后面什么都不跟的））：ctrl + alt + W 
 - 移动光标到当前模块的上一行（Move Caret Backward a Paragraph）： ctrl + shift + Q即可
 - 在移动光标到当前模块的上一行的同时选中当前块（Move Caret Backward a Paragraph with Selection）：ctrl + shift + alt + Q
-- 给文件重命名快捷键（Refactor - Rename :add Mouse shortcut）：shift + 鼠标右键 
+- 给文件重命名快捷键（Refactor - Rename :add Mouse shortcut）：shift + 鼠标左键两次 
 - 在文件/文件夹中搜索（Find in files）：ctrl + 鼠标右键 
 - Debug
     - 到下一行（step over）:ctrl + 1

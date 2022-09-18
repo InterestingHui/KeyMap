@@ -13,3 +13,10 @@
     - 执行Debug(Debug)：ctrl + E
     - 给当前行加断点（toggle line breakpoint）：ctrl + Q
     - 加入到观察列表（Add to watches）：ctrl + 5
+- 格式化代码(reformat code)：ctrl + shift + alt + L
+- 方向键
+    - 上（up）：ctrl + alt + I
+    - 下（down）：ctrl + alt + K
+    - 左（left）：ctrl + alt + J
+    - 右（right）：ctrl + alt + L
+- 退格（backspace）：shift + 空格
